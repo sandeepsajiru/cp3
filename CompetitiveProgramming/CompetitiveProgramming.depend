@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1455596845 source:c:\users\sandy\desktop\competitiveprogramming\main.cpp
+	<iostream>
+
+1455598064 source:c:\users\sandy\desktop\competitiveprogramming\10911.cpp
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<climits>
+

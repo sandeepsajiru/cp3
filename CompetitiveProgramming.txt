@@ -1,0 +1,12 @@
+Competitive Programming
+	- Define
+	- Why?
+	- Input and Output 
+	- Test Case
+	- Memory Constraints
+	- Time Constraints
+	- Expectations and Learning Order - Accuracy + Speed.
+	- Application of CS knowledge pushed to limits to produce solutions.
+	
+
+	
